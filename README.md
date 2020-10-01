@@ -8,3 +8,8 @@ Required libraries for the ML Club:
 - Scikit-learn (Sklearn)
 - Pandas
 - Tensorflow
+
+In order to install a library:
+- Search for the Anaconda Prompt(Anaconda3) on you computer
+- Open it and write down **pip install (library you want to install)**
+- Press Enter and enjoy ;)
